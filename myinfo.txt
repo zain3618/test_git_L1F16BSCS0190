@@ -1,4 +1,4 @@
 "Name : Zain Bukhari" 
 "Email : zain4838@ucp.edu.pk"
 "BSCS"
-"UCP"
+"University of Central Punjab"
