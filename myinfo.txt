@@ -2,5 +2,3 @@
 "Email : zain4838@ucp.edu.pk"
 "BSCS"
 "University of Central Punjab"
-=======
-"University of Central Punjab"
